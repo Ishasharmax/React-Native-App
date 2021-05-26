@@ -8,3 +8,4 @@ Installations:
 ### React Native Gesture
 ### React Native SVG
 
+...
